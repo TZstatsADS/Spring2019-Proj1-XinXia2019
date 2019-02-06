@@ -222,7 +222,7 @@ As shown above, most of male words are from America and India. So we can think t
 \
 
 
-###The joy sentiment comparison between American and Indian males.
+###The joy sentiment comparison between Venezuela and United Kingdom males.
 
 ```{r message=FALSE, warning=FALSE,echo=FALSE}
 #remove extra stopwords
