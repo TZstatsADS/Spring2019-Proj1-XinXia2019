@@ -77,7 +77,7 @@ Looking at the sentiment from male's happy moments, we can find that positive, j
   mutate(word = reorder(word, n)) %>%
   ####plot most common joy words of males
   ggplot(aes(word, n, fill = sentiment)) +
-  geom_col(show.legend = FALSE,fill = "orange") +
+  geom_col(show.legend = FALSE,fill = "springgreen3") +
   labs(y = "Contribution to sentiment",
        x = NULL)+coord_flip()
 
