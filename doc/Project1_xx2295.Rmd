@@ -285,4 +285,5 @@ From the plot, it's interesting that males of Venezuela are happy about food esp
 
 ###Reference
 Silge,Robinson,2018-12-21,"Text Mining with R". https://www.tidytextmining.com/index.html
-
+https://github.com/TZstatsADS/ADS_Teaching/blob/master/Tutorials/wk2-TextMining/doc/InteractiveWordCloud.Rmd
+https://github.com/TZstatsADS/ADS_Teaching/blob/master/Tutorials/wk2-TextMining/doc/wk2-Tutorial-TextMining.Rmd
